@@ -1,4 +1,4 @@
 site_name: H2 invent Docs
-site_url: h2-invent.github.io/docs
+site_url: https://h2-invent.github.io/docs
 theme:
   name: material
